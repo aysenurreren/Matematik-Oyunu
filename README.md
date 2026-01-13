@@ -14,6 +14,3 @@ Bu proje, kullanıcıların temel matematik becerilerini geliştirmelerine yard�
 ## Açıklama
 Projede temel algoritmalar ve kontrol yapıları kullanılarak oyun mantığı geliştirilmiştir.  
 Kullanıcı girişleri alınmış, doğruluk kontrolü yapılmış ve puanlama sistemi oluşturulmuştur.
-
-## Not
-Bu proje eğitim amaçlı geliştirilmiştir.
